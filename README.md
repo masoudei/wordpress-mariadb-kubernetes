@@ -14,3 +14,15 @@ kubectl create ns wordpress
 ```sh
 kubectl apply -f . -n wordpress
 ```
+
+## Delete all resources
+
+```sh
+kubectl delete -f . -n wordpress
+```
+
+## Delete also namespace
+
+```sh
+kubectl delete ns wordpress
+```
