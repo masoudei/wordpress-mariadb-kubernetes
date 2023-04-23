@@ -1,7 +1,7 @@
 
-# Wordpress & MariaDB Deployment on Kubernetes with Manifests
+# Wordpress & MariaDB Deployment on K8S using Manifests
 
-This is a simple tutorial to deploy Wordpress & MariaDB on kubernetes using manifests only
+A simple tutorial to deploy Wordpress & MariaDB on kubernetes using manifests only
 
 ## Create a namespace
 
