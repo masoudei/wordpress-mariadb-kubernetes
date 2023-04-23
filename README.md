@@ -1,7 +1,7 @@
 
 # Wordpress & MariaDB on K8S
 
-[strong]Wordpress & MariaDB Deployment on K8S using Manifests[strong]
+Wordpress & MariaDB Deployment on K8S using Manifests
 
 A simple tutorial to deploy Wordpress & MariaDB on kubernetes using manifests only
 
